@@ -3,9 +3,8 @@
 }
 
 .navbar{
-	position: fixed;
-	z-index: 99999;
-	top: 0 ;
+	z-index: 9999999999;
+	height: 60px;
 }
 
 .navbar .collapse .nav-item:hover {
