@@ -1,5 +1,14 @@
-.nada{
+.nada {
+	font-family: "Sigmar", serif;
+}
 
-    font-family: "Sigmar", serif;
+.navbar{
+	position: fixed;
+	z-index: 99999;
+	top: 0 ;
+}
 
+.navbar .collapse .nav-item:hover {
+	background-color:rgba(23, 151, 176, 0.293);
+	border-radius: 10px;
 }
